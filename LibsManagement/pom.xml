@@ -3,9 +3,9 @@
 	<parent>
 		<groupId>ru.send-to.versionManagement</groupId>
 		<artifactId>PluginManagement</artifactId>
-		<version>0.2</version>
+		<version>0.3</version>
 	</parent>
-	<version>0.2.2-SNAPSHOT</version>
+	<version>0.3-SNAPSHOT</version>
 	<artifactId>LibsManagement</artifactId>
 	<packaging>pom</packaging>
 	<name>LibsManagement</name>
