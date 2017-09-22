@@ -39,27 +39,33 @@
 				<type>jar</type>
 			</dependency>
 			<dependency>
+				<groupId>com.fasterxml.jackson.dataformat</groupId>
+				<artifactId>jackson-dataformat-xml</artifactId>
+				<version>2.8.1</version>
+				<type>jar</type>
+			</dependency>
+			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-api</artifactId>
-				<version>0.3.2.1</version>
+				<version>0.3.2.2</version>
 				<type>jar</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-gwt</artifactId>
-				<version>0.3.2.1</version>
+				<version>0.3.2.2</version>
 				<type>jar</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-http</artifactId>
-				<version>0.3.2.1</version>
+				<version>0.3.2.2</version>
 				<type>war</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-websocket</artifactId>
-				<version>0.3.2.1</version>
+				<version>0.3.2.2</version>
 				<type>war</type>
 			</dependency>
 			<dependency>
