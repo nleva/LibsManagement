@@ -5,7 +5,7 @@
 		<artifactId>PluginManagement</artifactId>
 		<version>0.3</version>
 	</parent>
-	<version>0.8</version>
+	<version>0.8-SNAPSHOT</version>
 	<artifactId>LibsManagement</artifactId>
 	<packaging>pom</packaging>
 	<name>LibsManagement</name>
@@ -190,7 +190,7 @@
 		<url>https://github.com/nleva/${project.artifactId}</url>
 		<connection>scm:git:https://github.com/nleva/${project.artifactId}.git</connection>
 		<developerConnection>scm:git:https://github.com/nleva/${project.artifactId}.git</developerConnection>
-		<tag>LibsManagement-0.8</tag>
+		<tag>HEAD</tag>
 	</scm>
 
 	<developers>
