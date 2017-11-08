@@ -47,31 +47,31 @@
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-api</artifactId>
-				<version>0.3.2.3</version>
+				<version>0.3.2.4</version>
 				<type>jar</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-gwt</artifactId>
-				<version>0.3.2.3</version>
+				<version>0.3.2.4</version>
 				<type>jar</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-http</artifactId>
-				<version>0.3.2.3</version>
+				<version>0.3.2.4</version>
 				<type>war</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.rest</groupId>
 				<artifactId>UniversalRest-websocket</artifactId>
-				<version>0.3.2.3</version>
+				<version>0.3.2.4</version>
 				<type>war</type>
 			</dependency>
 			<dependency>
 				<groupId>ru.send-to.ejb</groupId>
 				<artifactId>EjbContext</artifactId>
-				<version>0.3.2.3</version>
+				<version>0.3.2.4</version>
 				<type>ejb</type>
 			</dependency>
 			<dependency>
