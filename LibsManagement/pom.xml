@@ -177,7 +177,7 @@
       <dependency>
         <groupId>ru.send-to.websocket</groupId>
         <artifactId>CDIEndpoint</artifactId>
-        <version>${version.CDIEndpoint</version>
+        <version>${version.CDIEndpoint}</version>
         <type>jar</type>
       </dependency>
       <dependency>
