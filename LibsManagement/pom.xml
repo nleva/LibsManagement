@@ -7,7 +7,7 @@
     <version>0.5</version>
   </parent>
   <artifactId>LibsManagement</artifactId>
-  <version>0.11</version>
+  <version>0.12-SNAPSHOT</version>
   <packaging>pom</packaging>
   <name>LibsManagement</name>
   <url>http://github.com/nleva/${project.artifactId}</url>
@@ -29,7 +29,7 @@
   <scm>
     <connection>scm:git:https://github.com/nleva/${project.artifactId}.git</connection>
     <developerConnection>scm:git:https://github.com/nleva/${project.artifactId}.git</developerConnection>
-    <tag>LibsManagement-0.11</tag>
+    <tag>HEAD</tag>
     <url>https://github.com/nleva/${project.artifactId}</url>
   </scm>
   <properties>
